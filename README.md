@@ -47,17 +47,12 @@ $ cd VMAT/pyscripts
 $ python vm.py
 ```
 
-For more details about the Classification example in class, please look at the Python Notebook: [CART Notebook](notebooks/CART.ipynb)
-
 ## Contact
 If you have any questions about this class's content or problems running this code, please contact me at [Dr. Nono Saha](mailto:cyrillecardinale@gmail.com.?subject=[GitHub]%20CART%20Lecture%20Material)
 
 
 ## References
-<a id="1">[1]</a>
-Breiman, L., Friedman, J.H., Olshen, R.A. and Stone, C.J. (1984), Classification And Regression Trees, Chapman & Hall/CRC
+<a id="1" href="https://www.youtube.com/watch?v=3gRBOqf9rRY">[1]</a>
+Youtube Course of  Prof. Onur Mutlu, ETH Zürich.
 
-<a id="2" href="https://www.datacamp.com/tutorial/decision-tree-classification-python?dc_referrer=https%3A%2F%2Fwww.google.com%2F">[2] Decision Tree Classification with Python</a>
-
-<a id="3" href="https://www.math.snu.ac.kr/~hichoi/machinelearning/lecturenotes/CART.pdf">[3]</a>
-Hyeong In Choi (2017), Lecture 9: Classification and Regression Tree (CART), Seoul National University
+<a id="2" href="https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf">[2] Operating System Concepts, Abraham Silbershatz, Peter Baer G. and Greg Gagne, Tenth Edition, 2018.</a>
